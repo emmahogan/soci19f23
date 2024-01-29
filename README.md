@@ -1,2 +1,2 @@
 # soci19f23
-Course materials I developed and adapted for teaching SOCI19: Introduction to Python Programming for Social Science Applications during Fall 2023. I taught this course to 20 currently incarcerated University of California, Irvine students through their LIFTED college-in-prison program. 
+Course materials I developed and adapted for teaching SOCI19: Introduction to Python Programming for Social Science Applications during Fall 2023. I taught this course to 20 currently incarcerated University of California, Irvine students through their LIFTED college-in-prison program. Therefore, these course materials were designed for the unique prison context, taking into account things such as students not having access to internet resources or code interpreters.
